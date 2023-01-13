@@ -12,7 +12,7 @@
     height:0px;
 }
 #mainbody{
-    background: linear-gradient(90deg,gray,lightgray,gray);
+    background: linear-gradient(90deg,rgba(128, 128, 128, 0),rgba(211, 211, 211, 0),rgba(128, 128, 128, 0));
     margin:0px 200px 0px 200px;
 }
 #basement{
@@ -22,6 +22,11 @@
     padding: 10px 10px 7px 10px;
     margin:-10px -10px -10px -10px;
 
+}
+#topbutton{
+    text-align: center; 
+    margin: 0px -10px 0px -10px;
+    background: black;
 }
 body{
     background: url("images/bg.png") repeat;
@@ -45,45 +50,47 @@ body{
     text-align: center ;
     float: center;
     color: white;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/ngkzbg.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/aliansbg.png");
 }
 #secondbody{
-    background: linear-gradient(lightgray,rgb(151, 151, 151));
+    background: linear-gradient(rgb(161, 239, 253),rgb(8, 87, 151));
     padding: 10px 20px 0px 20px;
     font-size: 30px;
     text-align: center;
     float: left;
     color: white;
+    
 }
 #secondbody2{
-    background: linear-gradient(darkgray,dimgray);
+    background: linear-gradient(rgb(201, 206, 204),rgb(66, 66, 66));
     padding: 10px 20px 5px 20px;
     font-size: 30px;
-    text-align: justify;
+    text-align: center;
     color: white;
-    margin: 0px 50px 0px 0px;
+    margin: 0px 50px 0px 100px;
 }
 #secondbody3{
     background: linear-gradient(rgb(88, 88, 88),slategray);
     padding: 10px 20px 5px 20px;
     font-size: 30px;
-    text-align: justify;
+    text-align: center;
     color: white;
-    margin: 0px 0px 0px 50px
+    margin: 0px 0px 0px 50px;
 }
 #secondbody4{
-    background: linear-gradient(rgb(192, 192, 192),rgb(74, 75, 75));
+    background: linear-gradient(rgb(22, 153, 214),rgb(24, 86, 219));
     padding: 10px 20px 5px 20px;
     font-size: 30px;
     text-align: center;
     color: white;
+    margin: 0px 50px 0px 0px;
 }
 #secondbody5{
-    background: linear-gradient(rgb(106, 107, 107),rgb(168, 168, 168));
+    background: linear-gradient(rgb(106, 107, 107),rgb(0, 0, 0));
     padding: 10px 20px 5px 20px;
     margin: 0px 0px 0px 50px;
     font-size: 30px;
-    text-align: justify;
+    text-align: center;
     color: white;
 }
 
