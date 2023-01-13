@@ -53,7 +53,7 @@ body{
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("images/aliansbg.png");
 }
 #secondbody{
-    background: linear-gradient(rgb(161, 239, 253),rgb(8, 87, 151));
+    background: linear-gradient(rgb(161, 239, 253),rgb(3, 53, 94));
     padding: 10px 20px 0px 20px;
     font-size: 30px;
     text-align: center;
@@ -62,7 +62,7 @@ body{
     
 }
 #secondbody2{
-    background: linear-gradient(rgb(201, 206, 204),rgb(66, 66, 66));
+    background: linear-gradient(rgb(0, 0, 0),rgb(41, 41, 41));
     padding: 10px 20px 5px 20px;
     font-size: 30px;
     text-align: center;
@@ -78,7 +78,7 @@ body{
     margin: 0px 0px 0px 50px;
 }
 #secondbody4{
-    background: linear-gradient(rgb(22, 153, 214),rgb(24, 86, 219));
+    background: linear-gradient(rgb(15, 106, 148),rgb(11, 39, 99));
     padding: 10px 20px 5px 20px;
     font-size: 30px;
     text-align: center;
